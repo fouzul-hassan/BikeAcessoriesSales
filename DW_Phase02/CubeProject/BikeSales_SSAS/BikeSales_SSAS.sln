@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "BikeSales_SSAS", "BikeSales_SSAS\BikeSales_SSAS.dwproj", "{1642D773-9F6C-4495-9C65-EE98DF40F994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1642D773-9F6C-4495-9C65-EE98DF40F994}.Development|Default.ActiveCfg = Development
+		{1642D773-9F6C-4495-9C65-EE98DF40F994}.Development|Default.Build.0 = Development
+		{1642D773-9F6C-4495-9C65-EE98DF40F994}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10041724-DBD8-4061-B49A-62A1EE084AA0}
+	EndGlobalSection
+EndGlobal
