@@ -1,0 +1,101 @@
+product_id,model,sub_category_id,frame_id
+1,Supersix Evo Black Inc.,SC001,F001
+2,Supersix Evo Hi-Mod Team,SC001,F001
+3,Supersix Evo Hi-Mod Dura Ace 1,SC001,F001
+4,Supersix Evo Hi-Mod Dura Ace 2,SC001,F001
+5,Supersix Evo Hi-Mod Utegra,SC001,F001
+6,Supersix Evo Red,SC001,F001
+7,Supersix Evo Ultegra 3,SC001,F001
+8,Supersix Evo Ultegra 4,SC001,F001
+9,Supersix Evo 105,SC001,F001
+10,Supersix Evo Tiagra,SC001,F001
+11,CAAD12 Black Inc,SC001,F002
+12,CAAD12 Disc Dura Ace,SC001,F002
+13,CAAD12 Red,SC001,F002
+14,CAAD Disc Ultegra,SC001,F002
+15,CAAD12 Ultegra,SC001,F002
+16,CAAD12 Disc 105,SC001,F002
+17,CAAD12 105,SC001,F002
+18,CAAD8 105,SC001,F002
+19,CAAD8 Tiagra,SC001,F002
+20,CAAD8 Sora,SC001,F002
+21,CAAD8 Claris,SC001,F002
+22,Synapse Hi-Mod Disc Black Inc.,SC002,F001
+23,Synapse Hi-Mod Disc Red,SC002,F001
+24,Synapse Hi-Mod Dura Ace,SC002,F001
+25,Synapse Hi-Mod Disc Ultegra,SC002,F001
+26,Synapse Carbon Disc Ultegra D12,SC002,F001
+27,Synapse Carbon Disc Ultegra,SC002,F001
+28,Synapse Carbon Ultegra 3,SC002,F001
+29,Synapse Carbon Ultegra 4,SC002,F001
+30,Synapse Carbon Disc 105,SC002,F001
+31,Synapse Carbon 105,SC002,F001
+32,Syapse Carbon Tiagra,SC002,F001
+33,Synapse Disc Adventure,SC002,F002
+34,Synapse Disc 105,SC002,F002
+35,Synapse Disc Tiagra,SC002,F002
+36,Synapse Sora,SC002,F002
+37,Synapse Claris,SC002,F002
+38,Slice Hi-Mod Black Inc.,SC003,F001
+39,Slice Hi-Mod Dura Ace D12,SC003,F001
+40,Slice Ultegra D12,SC003,F001
+41,Slice Ultegra,SC003,F001
+42,Slice 105,SC003,F001
+43,SuperX Hi-Mod CX1,SC004,F001
+44,SuperX Ultegra,SC004,F001
+45,SuperX 105,SC004,F001
+46,SuperX Rival CX1,SC004,F001
+47,Jekyll Carbon 1,SC005,F001
+48,Jekyll Carbon 2,SC005,F001
+49,Jekyll Carbon 3,SC005,F001
+50,Jekyll Carbon 4,SC005,F001
+51,Trigger Carbon 1,SC005,F001
+52,Trigger Carbon 2,SC005,F001
+53,Trigger Carbon 3,SC005,F001
+54,Trigger Carbon 4,SC005,F001
+55,Scalpel-Si Black Inc.,SC006,F001
+56,Scalpel-Si Race,SC006,F001
+57,Scalpel-Si Hi-Mod 1,SC006,F001
+58,Scalpel-Si Carbon 2,SC006,F001
+59,Scalpel-Si Carbon 3,SC006,F001
+60,Scalpel-Si Carbon 4,SC006,F001
+61,Scalpel-Si 5,SC006,F002
+62,Scalpel 29 Carbon Race,SC006,F001
+63,Scalpel 29 Carbon 2,SC006,F001
+64,Scalpel 29 Carbon 3,SC006,F001
+65,Scalpel 29 4,SC006,F002
+66,F-Si Black Inc.,SC006,F001
+67,F-Si Hi-Mod Team,SC006,F001
+68,F-Si Hi-Mod 1,SC006,F001
+69,F-Si Carbon 2,SC006,F001
+70,F-Si Carbon 4,SC006,F001
+71,F-Si 1,SC006,F002
+72,F-Si 2,SC006,F002
+73,F-Si 3,SC006,F002
+74,Fat CAAD1,SC007,F002
+75,Fat CAAD2,SC007,F002
+76,Beast of the East 1,SC008,F002
+77,Beast of the East 2,SC008,F002
+78,Beast of the East 3,SC008,F002
+79,Bad Habit 1,SC008,F002
+80,Bad Habit 2,SC008,F002
+81,Habit Hi-Mod Black Inc.,SC008,F001
+82,Habit Carbon 1,SC008,F001
+83,Habit Carbon 2,SC008,F001
+84,Habit Carbon SE,SC008,F001
+85,Habit Carbon 3,SC008,F001
+86,Habit 4,SC008,F002
+87,Habit 5,SC008,F002
+88,Habit 6,SC008,F002
+89,Trail 1,SC009,F002
+90,Trail 2,SC009,F002
+91,Trail 3,SC009,F002
+92,Trail 4,SC009,F002
+93,Trail 5,SC009,F002
+94,Catalyst 1,SC009,F002
+95,Catalyst 2,SC009,F002
+96,Catalyst 3,SC009,F002
+97,Catalyst 4,SC009,F002
+98,Catalyst 5,SC009,F002
+99,Catalyst 6,SC009,F002
+100,Catalyst 7,SC009,F002

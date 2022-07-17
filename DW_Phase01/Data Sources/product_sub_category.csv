@@ -1,0 +1,10 @@
+sub_category_id,cat_name,category_id
+SC001,Elite Road,C001
+SC002,Endurance Road,C001
+SC003,Triathalon,C001
+SC004,Cyclocross,C001
+SC005,Over Mountain,C002
+SC006,Cross Country Race,C002
+SC007,Fat Bike,C002
+SC008,Trail,C002
+SC009,Sport,C002
