@@ -1,0 +1,75 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>BikeSales_SSAS</Database>
+    <Server>DESKTOP-N2CISRT\MSSQLSERVER1</Server>
+    <ConnectionString>Data Source=DESKTOP-N2CISRT\MSSQLSERVER1;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>arOZVnn682ngZUN8/NWlEGOfgjk=5/21/2022 11:01:08 AM5/20/2022 11:48:44 PM</TimeStamp>
+        <ID>
+          <String>Bike Sales_DW</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>VrwRLeFZH8y/zXFYNrPv0Y5QFD8=5/21/2022 6:09:18 PM5/20/2022 11:49:51 PM</TimeStamp>
+        <ID>
+          <String>DSV_Bike Sales_DW</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>X6jl/xsaS1CFyQzjNUclcfr9lPg=5/21/2022 6:09:16 PM5/21/2022 12:23:02 AM</TimeStamp>
+        <ID>
+          <String>Dim Product</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>/mBtRg5lynk3Cn0nwkmniGZiH2E=5/21/2022 6:09:18 PM5/21/2022 12:23:02 AM</TimeStamp>
+        <ID>
+          <String>Dim Customers</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>d4vfR7peBwh5c29OjUWCSMTZ3Rw=5/21/2022 6:09:16 PM5/21/2022 12:23:02 AM</TimeStamp>
+        <ID>
+          <String>Dim Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>NcsFjnn3S5G4Pj6jGgJF0B22PmQ=5/21/2022 6:09:15 PM5/21/2022 12:23:02 AMg8nUFiDGho+xY8uNVXGbdzFl0gY=5/21/2022 12:23:03 AM5/21/2022 12:23:02 AM</TimeStamp>
+        <ID>
+          <String>Cube_Bike Sales</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>eZUAkshEFWlENb3SBOf4mjwLZqg=5/20/2022 11:26:18 PM5/20/2022 11:26:17 PM</TimeStamp>
+      <ID>
+        <String>BikeSales_SSAS</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2022-05-21T12:39:27.99Z</LastDeployed>
+</DeploymentSnapshot>
